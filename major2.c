@@ -1,13 +1,4 @@
-/*
-    CSCE3600.002
-    Group 13
-    Jorge Guzman (JVG0042)
-    Raymond Mullikin (RPM0128)
-*/
 
-//major2.c
-//this fils is the main driver for this program
-//contains the main() function
 
 #include <stdio.h>
 #include <stdlib.h>
